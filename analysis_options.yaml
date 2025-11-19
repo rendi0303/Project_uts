@@ -1,0 +1,40 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  strong-mode:
+    implicit-casts: false
+    implicit-dynamic: false
+  errors:
+    missing_required_param: error
+    missing_return: error
+    dead_code: warning
+    unused_import: warning
+    todo: info
+
+linter:
+  rules:
+    prefer_single_quotes: true
+    prefer_const_constructors: true
+    prefer_final_fields: true
+    unnecessary_this: true
+    sort_constructors_first: true
+    always_declare_return_types: true
+    prefer_const_literals_to_create_immutables: true
+
+    avoid_unnecessary_containers: true
+    avoid_empty_else: true
+    avoid_relative_lib_imports: true
+    unnecessary_brace_in_string_interps: true
+    use_key_in_widget_constructors: true
+
+    avoid_redundant_argument_values: true
+    avoid_returning_null_for_future: true
+    avoid_shadowing_type_parameters: true
+    cancel_subscriptions: true
+    close_sinks: true
+    avoid_web_libraries_in_flutter: true
+
+    lines_longer_than_80_chars: false
+    curly_braces_in_flow_control_structures: true
+    omit_local_variable_types: false
+    prefer_expression_function_bodies: false
