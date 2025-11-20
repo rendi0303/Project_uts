@@ -1,35 +1,7 @@
-https://drive.google.com/file/d/1a3OyEuouS6psFrm2jf4f_3Ra7wx676jq/view?usp=drive_link, https://drive.google.com/file/d/1Qh0bb6ZH3Q_nsnnUr079IYbjKVZ12w8Y/view?usp=drive_link🚀 Fitur Utama
-⭐ Untuk Pelanggan
-
-Menu Digital Interaktif
-Lihat daftar menu dengan foto, deskripsi, dan harga secara lengkap.
-
-Pemesanan Online (Dine-in / Takeaway)
-Pelanggan dapat memesan sesuai kebutuhan dan memilih waktu pengambilan.
-
-Pembayaran Digital
-Mendukung pembayaran melalui e-wallet, virtual account, atau COD.
-
-Fitur Loyalty & Rewards
-Kumpulkan poin setiap transaksi dan tukarkan dengan promo menarik.
-
-asi Pesanan
-Status pesanan akan diperbarui secara real-time.
-
-⭐ Untuk Pemilik / Barista
-
-Dashboard Admin
-Kelola menu, stok, harga, dan promo dengan mudah.
-
-Manajemen Pesanan
-Monitor pesanan masuk, status pengerjaan, dan riwayat transaksi.
-
-Analitik Penjualan
-Grafik pendapatan, menu terlaris, dan laporan harian/mingguan/bulanan.
-
-
+Kesimpulan Laporan Aplikasi Coffee ShopLaporan ini menyajikan hasil Ujian Tengah Semester (UTS) mata kuliah Pemrograman Mobile 2 berupa pengembangan aplikasi "Coffee Shop"2. Aplikasi ini bertujuan untuk membantu operasional bisnis kedai kopi secara digital, mempermudah pengelolaan pesanan, stok, transaksi, dan layanan pelanggan agar lebih cepat, akurat, dan efisien3.Poin Utama Aplikasi dan TampilanAplikasi ini dikembangkan oleh kelompok yang beranggotakan Ijab Maulana (232101201) dan Rendi Ardiansyah (232101195) dari Universitas Teknologi Bandung (UTB)4444.Aplikasi ini memiliki beberapa tampilan utama yang dijelaskan sebagai berikut:Tampilan Pembuka (Splash Screen): Halaman loading awal aplikasi5555.Menggunakan tema warna cokelat tua6.Menampilkan logo aplikasi berupa cangkir kopi7.Memiliki pesan sambutan "Coffee Time!"8.Menunjukkan indikator memuat dengan teks "Menyeduh..." (Brewing...)9.Tampilan Utama (HomePage): Halaman beranda aplikasi10101010.Memiliki banner slogan "Temukan Kopi Terbaik Untuk Hari Terbaikmu"11.Menampilkan informasi promo spesial "Dapatkan diskon 20% untuk semua menu Espresso"12.Terdapat bagian "Coffee Terbaru" dan navigasi bawah dengan menu "Beranda" dan "Coffee"13.Halaman Detail Produk: Menampilkan detail satu item menu, contohnya produk "macchiato"141414141414141414.Harga produk macchiato adalah Rp 18.00015.Deskripsi singkatnya adalah "Kopi lembut"16.Tersedia tombol aksi "Cek Lokasi" dan "Pesan Sekarang"17.Halaman Pencarian Lokasi di Google Maps: Berfungsi untuk mengecek lokasi kedai kopi, yang menunjukkan integrasi dengan Google Maps18181818.Contoh pencarian menggunakan koordinat: $6^\circ 12^\prime 00.0^{\prime \prime} S \text{ } 106^\circ 49^\prime 00.0^{\prime \prime} E$19.Lokasi yang teridentifikasi berada di QRXB+XMV Kebon Melati, Central Jakarta City, Jakarta20.💻 Komponen Coding (Flutter)Dokumen ini juga melampirkan source code untuk berbagai komponen utama aplikasi, mengindikasikan bahwa aplikasi ini dikembangkan menggunakan framework Flutter212121212121212121:coffe_page.dart: Berisi kode untuk menampilkan daftar atau halaman kopi22.contact_page.dart: Berisi fungsi untuk membuka URL eksternal (telepon, WhatsApp, peta) dan secara spesifik memiliki fungsi openGoogleMaps() dengan koordinat Bandung ($ -6.917464, 107.619123$) sebagai lokasi placeholder23.home_page.dart: Kode untuk tampilan beranda24.splash_screen.dart: Implementasi splash screen dengan berbagai controller untuk animasi (bounce, steam, particle, ripple, shine)25.coffe_card.dart: Komponen widget yang merepresentasikan item kopi di dalam daftar atau grid26262626.marketing_card.dart, header_banner.dart, dan coffe_model.dart: Komponen widget dan model data untuk elemen antarmuka dan struktur data kopi27.Pubspec.yaml: File konfigurasi untuk manajemen dependensi dan assets (gambar) yang digunakan dalam proyek28.Aplikasi Coffee Shop yang dikembangkan ini menunjukkan kemajuan dalam mengimplementasikan antarmuka pengguna, navigasi, tampilan detail produk, dan integrasi dengan layanan eksternal (Google Maps) menggunakan Flutter.
 ![WhatsApp Image 2025-11-20 at 14 21 32 (1)](https://github.com/user-attachments/assets/d0ff537b-506a-4e4c-ba9a-c2228a434bf4)
 ![WhatsApp Image 2025-11-20 at 14 21 33](https://github.com/user-attachments/assets/ff691b74-a2bf-4dd0-96b0-376fe413017a)
 ![WhatsApp Image 2025-11-20 at 14 21 34 (1)](https://github.com/user-attachments/assets/d2c8e15b-7ff4-47c6-b336-718caa017a6a)
 ![WhatsApp Image 2025-11-20 at 14 21 34](https://github.com/user-attachments/assets/add8e44d-d9f6-4b9f-acff-90d9a32ccb78)
+
 
